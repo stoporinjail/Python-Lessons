@@ -6,3 +6,24 @@ Over the course of 12 weeks, you will learn how to code with Python! Prior to do
 - `PythonAnyWhere` [(link)](pythonanywhere.com) 
 - `Repl.it` [(link)](repl.it/) (recommended)
 And many others.
+# Requirements:
+- An IDE (above)
+- If you are using an offline IDE, [Git Bash](https://git-scm.com/downloads)
+- If you are using an offline IDE, [Python](python.org/downloads)
+# How to run - [Repl.It](https://repl.it/@stoporinjail/Python-Lessons) (Recommended)
+- Click the Repl.it link above.
+- Tap the run button
+# How to run - GitHub
+- Open Git Bash
+- Type in:
+```
+git clone https://github.com/stoporinjail/Python-Lessons
+```
+- Type in:
+```
+cd Python-Lessons
+```
+- Type in:
+```
+python main.py
+```
