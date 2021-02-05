@@ -1,0 +1,37 @@
+from sys import stdout as s
+from time import sleep as j
+def w(print):
+  for i in print:
+    j(.055)
+    s.write(i)
+    s.flush()
+  next = input()
+def noinput(print):
+  for i in print:
+    j(.055)
+    s.write(i)
+    s.flush()
+w("Hello there! Over the course of 12 lessons, you will be learning how to code with Python! (Click enter to proceed)")
+w("Please click this link to start: https://repl.it/signup")
+w("Go ahead and signup! ")
+w("When you are done signing up, please click enter.")
+w("Now, Click the 3 lines at the top left corner, and then click 'New repl'")
+w("You can name your repl, or use the default name. Make sure you remember it if you choose the default name though!")
+w("Let's get started!")
+w("Today we will be learning how to print something out, equations, and variables.")
+w("To print something out, you must enter the word print('value')\nExample:\nprint('Hello world')")
+w('You can also type\nprint("value")')
+w("It is the same, except the first one uses '' ")
+w("Try typing:\nprint('Hello world')")
+w("Run the program.")
+w("Wow! The words Hello world print out!")
+w("The next thing we are going to do is equations.")
+w("You can use equations to calculate a math problem.")
+w("If you type 1+1, and then run the program, the Console (the black screen) will answer 2!")
+w("Type:\n\n34+37/3*8-10!\nTap the run button.")
+w("If you ran it, the answer is 122.666666667")
+w("Let's continue to variables. Variables can store information. They can be printed multiple times, and do a whole other stuff which we will talk about in the future.")
+w("To make a variable, you must put it in this format:\nvariablename = 'value'\nExample:\nname = '[your name]'\nPut your name in [your name]")
+w("To print one out, simply\nprint(variablename)\nExample:\nprint(name)")
+w("That's all for today!")
+w("Goodbye, see you next time!")
