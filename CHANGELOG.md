@@ -1,4 +1,5 @@
 Changes:
+
 `2/6/2021:`
 
 - Added Lesson 2
