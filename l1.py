@@ -2,13 +2,13 @@ from sys import stdout as s
 from time import sleep as j
 def w(print):
   for i in print:
-    j(.055)
+    j(.03)
     s.write(i)
     s.flush()
   next = input()
 def noinput(print):
   for i in print:
-    j(.055)
+    j(.03)
     s.write(i)
     s.flush()
 w("Hello there! Over the course of 12 lessons, you will be learning how to code with Python! (Click enter to proceed)")
@@ -33,5 +33,9 @@ w("If you ran it, the answer is 122.666666667")
 w("Let's continue to variables. Variables can store information. They can be printed multiple times, and do a whole other stuff which we will talk about in the future.")
 w("To make a variable, you must put it in this format:\nvariablename = 'value'\nExample:\nname = '[your name]'\nPut your name in [your name]")
 w("To print one out, simply\nprint(variablename)\nExample:\nprint(name)")
+w("If you want to print it out with text, do this:\nprint('Hello, my name is',name)")
+w("Another way is\nprint('Hello, my name is ' + name)")
+w("If you use the + , it does not create a space. However if you use a comma, it does automatically create a space")
+w("If you have any questions, please go to this link: https://repl.it/@stoporinjail/Python-Lessons and then leave a comment.")
 w("That's all for today!")
 w("Goodbye, see you next time!")

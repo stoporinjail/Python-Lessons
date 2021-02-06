@@ -13,7 +13,7 @@ And many others.
 # How to run - [Repl.It](https://repl.it/@stoporinjail/Python-Lessons) (Recommended)
 - Click the Repl.it link above.
 - Tap the run button
-# How to run - [GitHub](github.com/stoporinjail/Python-Lessons)
+# How to run - [GitHub](https://github.com/stoporinjail/Python-Lessons)
 - Open Git Bash
 - Type in:
 ```
