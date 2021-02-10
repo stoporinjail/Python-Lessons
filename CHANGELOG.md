@@ -1,5 +1,11 @@
 Changes:
 
+`2/10/2021:`
+
+- Lesson 3
+- Added "instructors"
+
+---
 `2/6/2021:`
 
 - Added Lesson 2

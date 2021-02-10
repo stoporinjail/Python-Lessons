@@ -12,6 +12,7 @@ def noinput(print):
     s.write(i)
     s.flush()
 w("Hello there! Over the course of 12 lessons, you will be learning how to code with Python! (Click enter to proceed)")
+w("My name is Basil, your instructor for today.")
 w("Please click this link to start: https://repl.it/signup")
 w("Go ahead and signup! ")
 w("When you are done signing up, please click enter.")

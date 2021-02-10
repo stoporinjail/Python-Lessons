@@ -6,4 +6,4 @@ if l == '':
 if l == '1':
   os.system("python l2.py")
 else:
-  print("Only lesson 1 has been released. Please check back on these dates:\n\nLesson 3: ~Febuary 7, 2021\nLesson 4: ~Febuary 7, 2021")
+  print("Only lesson 1 has been released. Please check back on these dates:\n\nLesson 3: ~Febuary 8, 2021\nLesson 4: ~Febuary 10, 2021")

@@ -1,7 +1,6 @@
 from sys import stdout as s
 from time import sleep as j
 import sys
-
 def w(print):
   for i in print:
     j(.03)
@@ -14,6 +13,7 @@ def noinput(print):
     s.write(i)
     s.flush()
 w("Hello, and welcome back!")
+w("I am your Python instructor, Draco")
 w("You might remember last time that we learned about printing out, equations, and variables.")
 w('Today we will be learning something similar.')
 w("We will be learning these 3 topics today:\n- Multiple-value Variables\nF-strings\nUser inputs")

@@ -1,0 +1,42 @@
+import sys
+sys.exit(0)
+from sys import stdout as s
+from time import sleep as j
+def w(print):
+  for i in print:
+    j(.03)
+    s.write(i)
+    s.flush()
+  next = input()
+def noinput(print):
+  for i in print:
+    j(.03)
+    s.write(i)
+    s.flush()
+w("I'm Sally, your instructor")
+w("Today we will be learning about three imports: sys, time and random")
+w("specifically, the sys.exit and time.sleep, random.randint, and random.choice")
+w("Let us get started! Be sure to open up a new Python repl!")
+w("Alrighty! Before you use these, you must import it. It is very, very simple. Just write\nimport sys")
+w("sys.exit can exit you out of a program.")
+w("You can input a reason, or just exit them without a reason.")
+w("Type this:\n\nsys.exit('You are unauthorized to be here.')")
+w("If you run the program, you can see that it prints 'You are unauthorized to be here.' in red. This is really neat function that you can use if you are doing adventure games for instance. If you use a wrong decision, you can use it.")
+w("Let's move on to time!")
+w("Printing out is hard.")
+w("Unless you are using a typewriter effect like mine (which I will show you how to do in future lessons, it just prints the words out, and you have to scroll up to see all the text.")
+w("Well, I have a solution!")
+w("Remember to import the module!\nimport time")
+w("Let's say you wanted to print an adventure game.")
+w("So you do\nprint('Hello, welcome to my adventure game.')\nprint('The goal is to survive.')")
+w("If you wanted to add a pause, put time.sleep(number) in it.\nMake sure to replace number with the number of seconds you want to pause. Decimals apply.")
+w("The final code will look like this:\nprint('Hello, welcome to my adventure game!')\ntime.sleep(1)\nprint('The goal is to survive.')")
+w("Let's do the random import now.")
+w("The random import will choose a random choice out of a multi-value-variable.")
+w("Remember:\nimport random")
+w("So I just create a multi-value variable like this:\nopponent = ['Bob','Sally','Basil','Joe','Mad Hatter']")
+w("So now you can do:\nprint('Your opponent is...',random.choice(opponent))\nMake sure you close both parentases, using a total of 2 at the end. This is a very common mistake, don't do it :)")
+w("You can also use an f string.")
+w("You can also store it in a variable, so that you can use it again and again and it doesn't change.")
+w("I hope you enjoyed today's lesson!")
+w("Questions? Comment at: https://repl.it/@stoporinjail/Python-Lessons")
