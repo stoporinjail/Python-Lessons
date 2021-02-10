@@ -5,5 +5,7 @@ if l == '':
   os.system("python l1.py")
 if l == '1':
   os.system("python l2.py")
+if l == '2':
+  os.system("python l3.py")
 else:
-  print("Only lesson 1 has been released. Please check back on these dates:\n\nLesson 3: ~Febuary 8, 2021\nLesson 4: ~Febuary 10, 2021")
+  print("Only lesson 1, 2, and 3 have been released. Please check back on these dates:\n\nLesson 4: ~Febuary 12, 2021")
