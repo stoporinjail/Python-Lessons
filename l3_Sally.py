@@ -1,5 +1,4 @@
 import sys
-sys.exit(0)
 from sys import stdout as s
 from time import sleep as j
 def w(print):

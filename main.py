@@ -8,4 +8,4 @@ if l == '1':
 if l == '2':
   os.system("python l3.py")
 else:
-  print("Only lesson 1, 2, and 3 have been released. Please check back on these dates:\n\nLesson 4: ~Febuary 12, 2021")
+  print("Only lesson 1, 2, and 3 have been released.")
