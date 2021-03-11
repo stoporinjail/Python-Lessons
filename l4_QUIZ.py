@@ -41,5 +41,6 @@ if q3 == Q3:
   correct += 1
 else:
   wrong += 1
+w(f"You got {correct} out of 3 and {wrong} wrong.")
 w("That is all for today!")
 w("Questions? Concerns? Drop a comment at https://repl.it/@stoporijail/Python-Lessons")
