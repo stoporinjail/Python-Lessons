@@ -28,7 +28,7 @@ cd Python-Lessons
 python main.py
 ```
 # Suggestions
-Do you have any suggestions? Click [this](repl.it/@stoporinjail/Python-Lessons) link! (right click on link, then click "open in new tab")
+Do you have any suggestions? Click [this](https://repl.it/@stoporinjail/Python-Lessons) link!
 
 ---
 Have a great day!
