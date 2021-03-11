@@ -38,4 +38,5 @@ w("So now you can do:\nprint('Your opponent is...',random.choice(opponent))\nMak
 w("You can also use an f string.")
 w("You can also store it in a variable, so that you can use it again and again and it doesn't change.")
 w("I hope you enjoyed today's lesson!")
+w("Psst, just a heads up, we're having a test next lesson. You might want to study the first 3 lesson topics.")
 w("Questions? Comment at: https://repl.it/@stoporinjail/Python-Lessons")

@@ -1,10 +1,10 @@
 # Python Lessons
 Over the course of 12 weeks, you will learn how to code with Python! Prior to doing this, please open or install a Python IDE such as:
 - `Sublime Text` [(link)](https://www.sublimetext.com)
-- `Geany` [(link)](geany.org)
+- `Geany` [link](https://geany.org)
 - `Visual Studio Code`  [(link)](https://code.visualstudio.com/)
-- `PythonAnyWhere` [(link)](pythonanywhere.com) 
-- `Repl.it` [(link)](repl.it/) (recommended)
+- `PythonAnyWhere` [link](https://pythonanywhere.com) 
+- `Repl.it` [link](https://repl.it) (recommended)
 And many others.
 # Requirements:
 - An IDE (above)
@@ -28,7 +28,7 @@ cd Python-Lessons
 python main.py
 ```
 # Suggestions
-Do you have any suggestions? Click [this](repl.it/@stoporinjail/Python-Lessons) link!
+Do you have any suggestions? Click [this](repl.it/@stoporinjail/Python-Lessons) link! (right click on link, then click "open in new tab")
 
 ---
 Have a great day!
