@@ -27,6 +27,15 @@ cd Python-Lessons
 ```
 python main.py
 ```
+## How to update your code (OFFLINE RUNS ONLY)
+I will update this often, for bug fixes and new lessons. Check back to this often to find out the fixes. If you see a new fix that you don't have on your copy, open Git Bash and type:
+```
+cd Python-Lessons
+```
+Then,
+```
+git pull origin master
+```
 # Suggestions
 Do you have any suggestions? Click [this](https://repl.it/@stoporinjail/Python-Lessons) link!
 
