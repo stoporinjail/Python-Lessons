@@ -37,7 +37,7 @@ Then,
 git pull origin master
 ```
 # Suggestions
-Do you have any suggestions? Click [this](https://repl.it/@stoporinjail/Python-Lessons) link!
+Do you have any suggestions? Click [this](https://repl.it/@stoporinjail/Python-Lessons) link and add a comment!
 
 ---
 Have a great day!
